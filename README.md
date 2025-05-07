@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogipradnyana&label=Profile%20views&color=0e75b6&style=flat" alt="yogipradnyana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogipradnyana" alt="yogipradnyana" /></a> </p>
-
 - 🌱 I’m currently learning **Vue JS, Django, Laravel**
+
+- 💬 Ask me about **Vue JS, React, Laravel**
 
 - 📫 How to reach me **15ktkj1yogipradnyana@gmail.com**
 
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogipradnyana&show_icons=true&locale=en&layout=compact" alt="yogipradnyana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogipradnyana&show_icons=true&locale=en" alt="yogipradnyana" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogipradnyana&" alt="yogipradnyana" /></p>
